@@ -13,7 +13,7 @@ This project depends on
 
 To install kas into your python site-package repository, run::
 
-    $ sudo pip3 install .
+    $ pip3 install .
 
 
 Usage
